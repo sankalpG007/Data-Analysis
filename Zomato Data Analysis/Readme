@@ -1,0 +1,28 @@
+Short Summary :
+"Analyzed Zomato restaurant data using Python (Pandas, Matplotlib) to identify pricing trends,
+ cuisine popularity, and rating patterns across Indian cities. Key findings include
+ Delhi's higher average prices compared to Mumbai and the dominance of North Indian cuisine in NCR.
+ The project demonstrates data cleaning, exploratory analysis, and visualization skills.
+
+# Zomato Data Analysis Project  
+
+## **Objective**  
+Analyzed Zomato restaurant data to uncover trends in pricing, ratings, and cuisine types across Indian cities.  
+
+## **Tools Used**  
+- Python (Pandas, Matplotlib, Seaborn)  
+- Jupyter Notebook  
+
+## **Key Insights**  
+1. **Price Trends:**  
+   - Restaurants in Delhi/NCR are 30% more expensive than Mumbai on average.  
+   - High-rated restaurants (>4.5) tend to be mid-range priced (₹300–₹800 per order).  
+2. **Cuisine Popularity:**  
+   - North Indian cuisine dominates in Delhi, while Mumbai prefers Chinese and Fast Food.  
+3. **Rating Analysis:**  
+   - 60% of restaurants with online delivery have ratings above 3.5.  
+
+## **How to Use This Project?**  
+1. Clone the repo:  
+   ```bash  
+   git clone https://github.com/sankalpG007/Data-Analysis.git  
