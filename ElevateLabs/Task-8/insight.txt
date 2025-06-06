@@ -1,0 +1,5 @@
+Insights from Sales Dashboard:
+1. The West region had the highest sales in Q3.
+2. Furniture category showed the lowest profit margin.
+3. December showed peak sales, likely due to holiday promotions.
+4. Central and South regions have moderate but consistent sales.
